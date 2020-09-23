@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/admindashboard-valuewidget",
+    "name": "codica-studio/admindashboard-valuewidget",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/admindashboard-valuewidget",
+    "homepage": "https://github.com/codica-studio/admindashboard-valuewidget",
     "license": "MIT",
     "authors": [
         {
